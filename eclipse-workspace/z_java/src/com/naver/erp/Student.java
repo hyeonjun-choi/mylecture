@@ -24,7 +24,7 @@ public class Student {
     //-------------------------
     public Student( int stu_no, String stu_name, String jumin_num){
     	this.stu_no = stu_no;
-    	this.stu_name = sut_name;
+    	this.stu_name = stu_name;
     	this.jumin_num = jumin_num;
     }
     //-------------------------
